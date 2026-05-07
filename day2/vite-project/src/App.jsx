@@ -1,5 +1,4 @@
 import React from 'react'
-import Section2 from './assets/components/section2/Section2'
 import Section1 from './assets/components/section1/section1'
 
 
@@ -20,7 +19,7 @@ const App = () => {
   return (
     <div>
       <Section1 users={users} />
-      <Section2 />
+      
       
     </div>
   )
