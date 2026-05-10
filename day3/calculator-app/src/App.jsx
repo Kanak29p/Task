@@ -5,7 +5,6 @@ import Calc from './assets/componenets/Calc'
 const App = () => {
   return (
     <div>
-      <Display />
       <Calc />
     </div>
   )
